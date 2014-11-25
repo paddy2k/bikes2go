@@ -1,0 +1,19 @@
+{
+  "name": "bikes2go",
+  "version": "0.0.0",
+  "description": "A cycle share information web service for Ireland",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "author": "@paddy2k",
+  "license": {
+    "type": "AGPLv3",
+    "url": "http://www.gnu.org/licenses/agpl-3.0"
+  },
+  "dependencies": {
+    "node-phantom": "^0.2.5",
+    "phantomjs": "^1.9.12",
+    "socket.io": "0.9.x"
+  }
+}
